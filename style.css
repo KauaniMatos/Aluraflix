@@ -1,6 +1,6 @@
 body{
 color:blue;
-background-color: brown;
+background-color: rgb(42, 85, 165);
 margin:0px;
 font-family: "Playwrite GB S", cursive;
 margin-bottom: 100px;
@@ -27,3 +27,4 @@ h1{
 }
     .categoria{
 background-color: aqua;
+    }
