@@ -6,13 +6,13 @@ font-family: "Playwrite GB S", cursive;
 margin-bottom: 100px;
 }
 header{
-    border-bottom:solid 2px blue;
+    border-bottom:solid 2px rgb(255, 0, 242);
     padding: 20px;
     font-size: 32px;
     color:aquamarine;
 }
 .chamada{
-    background: rgb(43, 61, 226);
+    background: rgb(226, 43, 186);
     margin-top: 80px;
     margin-bottom: 80px;
     display: flex;
